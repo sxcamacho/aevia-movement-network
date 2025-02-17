@@ -1,0 +1,16 @@
+[package]
+name = "aevia"
+version = "1.0.0"
+authors = []
+
+[addresses]
+movement = "039ebf51388de47a43939ddd5e469319f976e00cd5bf71b0adbb451554208fdf"
+
+[dev-addresses]
+
+[dependencies.AptosFramework]
+git = "https://github.com/aptos-labs/aptos-core.git"
+rev = "mainnet"
+subdir = "aptos-move/framework/aptos-framework"
+
+[dev-dependencies]

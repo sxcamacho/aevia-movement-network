@@ -1,0 +1,18 @@
+# Build artifacts
+build/
+
+# IDE files
+.idea/
+.vscode/
+
+# Movement specific
+.movement/
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# System files
+.DS_Store
+Thumbs.db
