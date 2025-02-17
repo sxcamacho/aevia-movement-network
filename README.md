@@ -6,6 +6,8 @@
 
 A smart contract for Movement Network that enables secure fund management through an authorized AI agent system.
 
+[Testnet Deployment](https://explorer.movementnetwork.xyz/txn/0x4ee381de73a8f6540198b7a03ce7241897fa58b4ac846c2c7ebfcc53c9d71460/changes?network=testnet)
+
 ## Overview
 
 The Aevia Protocol provides a secure way to manage funds through a vault system where:
